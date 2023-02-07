@@ -1,0 +1,62 @@
+{
+  "transaction": [
+    {
+      "id": 1,
+      "billNo":"1",
+      "partyName": "Nitish kumar",
+      "transactionType": "Sale",
+      "billDate":"20-jan_2023",
+      "totalAmount":"1231",
+      "paidAmount":"1231",
+      "remainAmoutn":"000"
+    },
+    {
+      "id": 2,
+      "billNo":"3",
+      "partyName": "Vikash kumar",
+      "transactionType": "Purchase",
+      "billDate":"20-Feb",
+      "totalAmount":"100",
+      "paidAmount":"50",
+      "remainAmoutn":"50"
+    },
+    {
+      "id": 3,
+      "billNo":"1",
+      "partyName": "Rishi kumar",
+      "transactionType": "Sale",
+      "billDate":"20-jan_2022",
+      "totalAmount":"20000",
+      "paidAmount":"19500",
+      "remainAmoutn":"500"
+    },
+    {
+      "id": 1,
+      "billNo":"1",
+      "partyName": "SaSi kumar",
+      "transactionType": "Purchase",
+      "billDate":"23-Aug-2023",
+      "totalAmount":"509",
+      "paidAmount":"9",
+      "remainAmoutn":"500"
+    }
+  ],
+
+
+  "items" : [
+
+    {
+      "id":1,
+      "itemName":"Patato",
+      "salePrice":"120",
+      "purchase":"100",
+      "stockValue":"2300",
+      "isProduct":"true"
+
+    }
+
+  ]
+
+
+  
+}
